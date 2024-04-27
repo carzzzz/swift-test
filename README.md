@@ -1,4 +1,4 @@
 # swift-test
 swift-test
 
-sample6
+sample7
